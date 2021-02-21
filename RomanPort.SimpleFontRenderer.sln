@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanPort.SimpleFontRenderer", "RomanPort.SimpleFontRenderer\RomanPort.SimpleFontRenderer.csproj", "{A9C081AD-07DF-4A51-9D09-AD3A0C09DADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanPort.SimpleFontRenderer.Generator", "RomanPort.SimpleFontRenderer.Generator\RomanPort.SimpleFontRenderer.Generator.csproj", "{DDBEA074-5BFD-4DA6-8273-BB7C61C22FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C081AD-07DF-4A51-9D09-AD3A0C09DADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C081AD-07DF-4A51-9D09-AD3A0C09DADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C081AD-07DF-4A51-9D09-AD3A0C09DADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C081AD-07DF-4A51-9D09-AD3A0C09DADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBEA074-5BFD-4DA6-8273-BB7C61C22FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBEA074-5BFD-4DA6-8273-BB7C61C22FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBEA074-5BFD-4DA6-8273-BB7C61C22FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBEA074-5BFD-4DA6-8273-BB7C61C22FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ED561E9-4664-46A8-989B-4BF62A7C1A97}
+	EndGlobalSection
+EndGlobal
